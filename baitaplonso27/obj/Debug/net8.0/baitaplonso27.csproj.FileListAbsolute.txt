@@ -1,0 +1,14 @@
+C:\Users\vinh1\source\repos\baitaplonso27\baitaplonso27\bin\Debug\net8.0\baitaplonso27.exe
+C:\Users\vinh1\source\repos\baitaplonso27\baitaplonso27\bin\Debug\net8.0\baitaplonso27.deps.json
+C:\Users\vinh1\source\repos\baitaplonso27\baitaplonso27\bin\Debug\net8.0\baitaplonso27.runtimeconfig.json
+C:\Users\vinh1\source\repos\baitaplonso27\baitaplonso27\bin\Debug\net8.0\baitaplonso27.dll
+C:\Users\vinh1\source\repos\baitaplonso27\baitaplonso27\bin\Debug\net8.0\baitaplonso27.pdb
+C:\Users\vinh1\source\repos\baitaplonso27\baitaplonso27\obj\Debug\net8.0\baitaplonso27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinh1\source\repos\baitaplonso27\baitaplonso27\obj\Debug\net8.0\baitaplonso27.AssemblyInfoInputs.cache
+C:\Users\vinh1\source\repos\baitaplonso27\baitaplonso27\obj\Debug\net8.0\baitaplonso27.AssemblyInfo.cs
+C:\Users\vinh1\source\repos\baitaplonso27\baitaplonso27\obj\Debug\net8.0\baitaplonso27.csproj.CoreCompileInputs.cache
+C:\Users\vinh1\source\repos\baitaplonso27\baitaplonso27\obj\Debug\net8.0\baitaplonso27.dll
+C:\Users\vinh1\source\repos\baitaplonso27\baitaplonso27\obj\Debug\net8.0\refint\baitaplonso27.dll
+C:\Users\vinh1\source\repos\baitaplonso27\baitaplonso27\obj\Debug\net8.0\baitaplonso27.pdb
+C:\Users\vinh1\source\repos\baitaplonso27\baitaplonso27\obj\Debug\net8.0\baitaplonso27.genruntimeconfig.cache
+C:\Users\vinh1\source\repos\baitaplonso27\baitaplonso27\obj\Debug\net8.0\ref\baitaplonso27.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinh1\\source\\repos\\baitaplonso27\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AECCA247-A5B0-4B10-A369-DB2155467644}|baitaplonso27\\baitaplonso27.csproj|c:\\users\\vinh1\\source\\repos\\baitaplonso27\\baitaplonso27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECCA247-A5B0-4B10-A369-DB2155467644}|baitaplonso27\\baitaplonso27.csproj|solutionrelative:baitaplonso27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinh1\\source\\repos\\baitaplonso27\\baitaplonso27\\Program.cs",
+              "RelativeDocumentMoniker": "baitaplonso27\\Program.cs",
+              "ToolTip": "C:\\Users\\vinh1\\source\\repos\\baitaplonso27\\baitaplonso27\\Program.cs",
+              "RelativeToolTip": "baitaplonso27\\Program.cs",
+              "ViewState": "AQIAAEQEAAAAAAAAAAAIwD8BAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T20:09:06.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
